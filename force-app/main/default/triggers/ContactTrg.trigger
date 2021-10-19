@@ -1,3 +1,3 @@
-trigger ContactTrg on SOBJECT (before insert) {
+trigger ContactTrg on contact (before insert) {
 
 }
